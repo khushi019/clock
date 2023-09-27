@@ -1,0 +1,40 @@
+
+.container{
+    width: 100vw;
+    height: 80vh;
+    background-color:azure;
+    align-items: center;
+    display: flex;
+    justify-content:center;
+    overflow-x: none;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+    
+
+}
+#time{
+    width: 750px;
+    height: 160px;
+    align-items: center;
+    background-color: rgba(233, 190, 97, 0.847);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif Times, 'Times New Roman', serif;
+    letter-spacing: 3px;
+    font-size: 120px;
+    text-align: center;
+    overflow-x: none;
+    color:black;
+    /* border-radius: 29px; */
+    box-shadow: 6px 13px;
+    min-height: 80px;
+   
+}
+p{
+    font-size: 50px;
+    padding-left: 37%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:black ;
+    padding-top: 2%;
+    overflow-x: none;
+}
